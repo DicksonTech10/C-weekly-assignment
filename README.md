@@ -1,2 +1,2 @@
-# C-weekly-assignment
+#opp weekly assignment
 This repository contains c++ codes only
